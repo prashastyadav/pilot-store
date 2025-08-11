@@ -1,7 +1,7 @@
 # Project Plan — E‑Comm Pilot Store
 
 > **Owner:** Prashast Yadav
-> **Repo:** `pilot-store` > **Last updated:** 10th August 2025<!-- update on edits -->
+> **Repo:** `pilot-store` > **Last updated:** 11th August 2025<!-- update on edits -->
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## Working Plan (This Week)
 
-- [ ] Pick brand name & tagline
-- [ ] Lock colors & fonts
-- [ ] Create minimal wordmark logo & favicon
+- [✅] Pick brand name & tagline
+- [✅] Lock colors & fonts
+- [✅] Create minimal wordmark logo & favicon
 - [ ] Scaffold Next.js app and deploy to Vercel
 - [ ] Add header shell + category placeholders
 
@@ -31,13 +31,13 @@ Notes:
 
 ### M1 — Brand Identity
 
-- [ ] Company name (short, .in/.com friendly)
+- [✅] Company name (short, .in/.com friendly)
 - [ ] Niche/theme for pilot (e.g., lifestyle accessories)
-- [ ] Tagline (≤ 8 words)
-- [ ] Color palette (1 primary, 1 secondary, 2 neutrals)
-- [ ] Typography (display + body)
-- [ ] Tone & voice (friendly / premium / playful)
-- [ ] Logo & favicon (simple text mark)
+- [✅] Tagline (≤ 8 words)
+- [✅] Color palette (1 primary, 1 secondary, 2 neutrals)
+- [✅] Typography (display + body)
+- [✅] Tone & voice (friendly / premium / playful)
+- [✅] Logo & favicon (simple text mark)
 
 ### M2 — Pre‑Launch Materials
 
